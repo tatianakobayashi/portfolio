@@ -3,6 +3,7 @@
 Back-end Dev | Scala | Python | C
 
 ## Projetos
+### Unity
 
 * _[Gameteca](https://github.com/tatianakobayashi/projetoIntegradorJogosDigitais)_
   * Projeto Integrador do curso de Programação para jogos digitais do Senac Hub Academy
