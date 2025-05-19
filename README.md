@@ -9,9 +9,14 @@ Ciência da Computação | Programação de Jogos Digitais
 
 * _[Gameteca](https://github.com/tatianakobayashi/projetoIntegradorJogosDigitais)_
   * Projeto Integrador do curso de Programação para jogos digitais do Senac Hub Academy
- 
-* [Jogo da velha](https://github.com/tatianakobayashi/minimaxUnity)
-  * Jogo da velha com implementação do algoritmo min-max recursivo
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tatianakobayashi&repo=minimaxTictactoe)](https://github.com/tatianakobayashi/minimaxTictactoe)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tatianakobayashi&repo=pongGame)](https://github.com/tatianakobayashi/pongGame)
+
+[![Unity 2021.3.10f1](https://img.shields.io/badge/Unity-v2021.3.10f1-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
 
 ## Habilidades
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
